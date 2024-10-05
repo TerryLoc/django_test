@@ -1,1 +1,1 @@
-web: gunicorn first-dj.wsgi
+web: gunicorn my_project.wsgi
